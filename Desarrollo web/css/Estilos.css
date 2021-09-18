@@ -1,0 +1,46 @@
+h1 {
+    color: rgb(5, 8, 6);
+}
+
+h2 {
+    color: #97b13b;
+}
+
+
+img{
+    width: 200px;
+    padding: 50px;
+
+}
+
+#img-center{
+    display: block;
+    margin-left: 1000px;
+    margin-right: auto;
+}
+
+
+#container { 
+    width: 1000px; 
+    margin: 0 auto; 
+    margin-right: 200px;
+    border: 0px solid #000000; 
+    text-align: left; 
+    position: absolute;
+    left: 200px;
+    top: 0px;
+
+    
+}
+
+a{
+    color: rgba(0, 0, 0, 0.473);
+    font-size: 20px;
+    font-weight: bold;
+    background: rgba(22, 7, 7, 0.808);
+    text-shadow: 6px 6px 6px #000000;
+}
+
+nav{
+    color: black;
+}
